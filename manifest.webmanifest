@@ -1,9 +1,9 @@
 {
-  "id": "./",
+  "id": "/prof-naretti/",
   "name": "PROF NARETTI!",
   "short_name": "PROF NARETTI!",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/prof-naretti/",
+  "scope": "/prof-naretti/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#102e50",
