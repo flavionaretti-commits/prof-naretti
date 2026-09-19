@@ -1,0 +1,311 @@
+{
+  "version": "2026-09-19.1",
+  "resources": [
+    {
+      "id": "aritmetica",
+      "title": "Aritmetica",
+      "section": "math",
+      "description": "Dispense e materiali di aritmetica",
+      "url": "https://drive.google.com/drive/folders/0Bycj5EVT6dwobEtOZWljdlI5Rmc?resourcekey=0-n9TV_ZVyrtKsF7SgYvCc4w&usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "algebra",
+      "title": "Algebra",
+      "section": "math",
+      "url": "https://drive.google.com/drive/folders/1L5rzjO7BXFmSPgyr_o-nuIzZqI6ygt7y?usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "geometria",
+      "title": "Geometria",
+      "section": "math",
+      "url": "https://drive.google.com/drive/folders/0Bycj5EVT6dwoQndKbFVRLWlqckE?resourcekey=0-AbRV22Xr5iaOEs-HuXTy0g&usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "lavagne",
+      "title": "Lavagne",
+      "section": "math",
+      "url": "https://drive.google.com/drive/folders/12MosWtOU6z1V0IB05rbJqEKNM_uTXM2-?usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "schemi",
+      "title": "Schemi risolutivi",
+      "section": "math",
+      "url": "https://drive.google.com/drive/folders/0Bycj5EVT6dwoQ0tTN05MNDRnVk0?resourcekey=0-Qao83JrejYzjw8bsQSoV6w&usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "tavole",
+      "title": "Tavole",
+      "section": "math",
+      "url": "https://drive.google.com/drive/folders/0Bycj5EVT6dwoQ3F5XzZSU1FIMmc?resourcekey=0-V7-EuI7pi7sUXZPwecUYjA&usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "laboratori",
+      "title": "Laboratori di matematica",
+      "section": "math",
+      "also": [
+        "tech"
+      ],
+      "url": "https://drive.google.com/drive/folders/0Bycj5EVT6dwoWExDOUJnVmxQWGM?resourcekey=0-GAXl740TS1Rea3ggHt1c4Q&usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "esami",
+      "title": "Prove d’esame",
+      "section": "math",
+      "grades": [
+        "3"
+      ],
+      "url": "https://drive.google.com/drive/folders/1H_bVorZs9eWTBUXlSJWa_E1ud6H01SAA?usp=drive_link",
+      "type": "Cartella"
+    },
+    {
+      "id": "superiori",
+      "title": "Matematica • scuole superiori",
+      "section": "math",
+      "url": "https://sites.google.com/site/profnaretti/home/matematica",
+      "type": "Pagina"
+    },
+    {
+      "id": "biologia",
+      "title": "Biologia",
+      "section": "science",
+      "description": "Microscopia, citologia, ecologia, genetica, biomolecole, evoluzione, sistematica e corpo umano",
+      "url": "https://sites.google.com/site/profnaretti/home/biologia",
+      "type": "Percorso"
+    },
+    {
+      "id": "chimica",
+      "title": "Chimica",
+      "section": "science",
+      "url": "https://sites.google.com/site/profnaretti/home/chimica",
+      "type": "Percorso"
+    },
+    {
+      "id": "astro",
+      "title": "Astronomia",
+      "section": "science",
+      "url": "https://sites.google.com/site/profnaretti/home/astronomia",
+      "type": "Percorso"
+    },
+    {
+      "id": "geo",
+      "title": "Geologia",
+      "section": "science",
+      "url": "https://sites.google.com/site/profnaretti/home/geologia",
+      "type": "Percorso"
+    },
+    {
+      "id": "fisica",
+      "title": "Fisica",
+      "section": "science",
+      "url": "https://drive.google.com/drive/folders/0Bycj5EVT6dwodkRmSl9aRXJ5Q3M?resourcekey=0-lvI_0qK5FA9D1VxmKtRoBw&usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "informatica",
+      "title": "Informatica",
+      "section": "tech",
+      "description": "Word, Excel, GeoGebra, coding, audio, video e presentazioni",
+      "url": "https://sites.google.com/site/profnaretti/home/informatica",
+      "type": "Percorso"
+    },
+    {
+      "id": "robotica",
+      "title": "Robotica",
+      "section": "tech",
+      "url": "https://drive.google.com/open?id=1uQRw0CTbmieofPhNla-9J5KgMjpFQElr",
+      "type": "Cartella"
+    },
+    {
+      "id": "scratch",
+      "title": "Scratch",
+      "section": "tech",
+      "description": "La raccolta di progetti del professore",
+      "url": "https://scratch.mit.edu/studios/5920862/",
+      "type": "Sito"
+    },
+    {
+      "id": "tinkercad",
+      "title": "Tinkercad",
+      "section": "tech",
+      "description": "Modellazione 3D e circuiti",
+      "url": "https://www.tinkercad.com/",
+      "type": "Sito"
+    },
+    {
+      "id": "thingiverse",
+      "title": "Progetti 3D",
+      "section": "tech",
+      "url": "https://www.thingiverse.com/Shankh/designs",
+      "type": "Sito"
+    },
+    {
+      "id": "phet",
+      "title": "Simulazioni PhET",
+      "section": "apps",
+      "also": [
+        "science"
+      ],
+      "description": "Esperimenti interattivi di matematica e scienze",
+      "url": "https://phet.colorado.edu/it/simulations",
+      "type": "Simulazioni"
+    },
+    {
+      "id": "matletica",
+      "title": "MATLETICA!",
+      "section": "apps",
+      "also": [
+        "math"
+      ],
+      "url": "https://flavionaretti-commits.github.io/matletica/",
+      "type": "App"
+    },
+    {
+      "id": "aritmetica-app",
+      "title": "ARITMETICA!",
+      "section": "apps",
+      "also": [
+        "math"
+      ],
+      "url": "https://flavionaretti-commits.github.io/aritmetica-lab/",
+      "type": "App"
+    },
+    {
+      "id": "relativi",
+      "title": "RELATIVI!",
+      "section": "apps",
+      "also": [
+        "math"
+      ],
+      "description": "Esplora i numeri relativi",
+      "url": "https://flavionaretti-commits.github.io/numeri-relativi/",
+      "type": "App"
+    },
+    {
+      "id": "contatore",
+      "title": "CONTATORE POSIZIONALE",
+      "section": "apps",
+      "also": [
+        "math"
+      ],
+      "url": "https://flavionaretti-commits.github.io/contatore-posizionale/",
+      "type": "App"
+    },
+    {
+      "id": "cubo-app",
+      "title": "CUBO!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "url": "https://flavionaretti-commits.github.io/cubo-3x3/",
+      "type": "App"
+    },
+    {
+      "id": "clock",
+      "title": "CHESSCLOCK!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "url": "https://flavionaretti-commits.github.io/chess-clock/",
+      "type": "App"
+    },
+    {
+      "id": "hicsunt",
+      "title": "HIC SUNT MAGISTRI!",
+      "section": "apps",
+      "url": "https://flavionaretti-commits.github.io/hic-sunt-magistri/",
+      "type": "App"
+    },
+    {
+      "id": "scarabocchio",
+      "title": "SCARABOCCHIO!",
+      "section": "apps",
+      "url": "https://flavionaretti-commits.github.io/scarabocchio/",
+      "type": "App"
+    },
+    {
+      "id": "ignorante",
+      "title": "IGNORANTE!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "url": "https://flavionaretti-commits.github.io/ignorante/",
+      "type": "App"
+    },
+    {
+      "id": "attento",
+      "title": "ATTENTO A QUELLO CHE DICI!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "url": "https://flavionaretti-commits.github.io/attento-a-quello-che-dici/",
+      "type": "App"
+    },
+    {
+      "id": "storydice",
+      "title": "STORYDICE!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "url": "https://flavionaretti-commits.github.io/storydice/",
+      "type": "App"
+    },
+    {
+      "id": "blitz",
+      "title": "BLITZ!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "url": "https://flavionaretti-commits.github.io/blitz-vic20/",
+      "type": "App"
+    },
+    {
+      "id": "scacchi",
+      "title": "Scacchi",
+      "section": "games",
+      "url": "https://sites.google.com/site/profnaretti/home/scacchi",
+      "type": "Percorso"
+    },
+    {
+      "id": "rubik",
+      "title": "Cubo di Rubik",
+      "section": "games",
+      "url": "https://drive.google.com/drive/folders/1ey_Gnt-8lZMrf6wBE0qeglSHjMdyR2Bl?usp=sharing",
+      "type": "Cartella"
+    },
+    {
+      "id": "letture",
+      "title": "Letture proposte",
+      "section": "books",
+      "url": "https://sites.google.com/view/lettureproposte/home",
+      "type": "Sito"
+    },
+    {
+      "id": "biblioteca",
+      "title": "Biblioteca della Maritano",
+      "section": "books",
+      "url": "https://sites.google.com/view/bibliotecamaritano/home",
+      "type": "Sito"
+    },
+    {
+      "id": "estate",
+      "title": "Compiti estivi",
+      "section": "summer",
+      "description": "Apri la raccolta e scegli i materiali indicati per la tua classe.",
+      "url": "https://drive.google.com/drive/folders/1CwFvjYwO2VuF_CSxdDfOUDF7MYOqSsGj?usp=sharing",
+      "type": "Cartella"
+    }
+  ]
+}
