@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-30.2",
+  "version": "2026-09-30.3",
   "resources": [
     {
       "id": "aritmetica",
@@ -351,6 +351,14 @@
       "section": "apps",
       "description": "Esplora statistica e probabilità con esperimenti casuali, simulazioni e istogrammi.",
       "url": "https://flavionaretti-commits.github.io/statistica/",
+      "type": "App"
+    },
+    {
+      "id": "pitagora",
+      "title": "PITAGORA!",
+      "section": "apps",
+      "description": "Scopri i legami tra matematica, fisica e musica con un monocordo interattivo.",
+      "url": "https://flavionaretti-commits.github.io/pitagora/",
       "type": "App"
     }
   ]
