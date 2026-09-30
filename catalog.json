@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-26.1",
+  "version": "2026-09-30.1",
   "resources": [
     {
       "id": "aritmetica",
@@ -328,10 +328,18 @@
     },
     {
       "id": "montyhall",
-      "title": "MONTYHALL!",
+      "title": "PARADOX!",
       "section": "apps",
-      "description": "Esplora il paradosso di Monty Hall con tre porte, scelte e simulazioni.",
-      "url": "https://flavionaretti-commits.github.io/montyhall/",
+      "description": "Esplora i paradossi della probabilità con giochi e simulazioni, a partire da Monty Hall.",
+      "url": "https://flavionaretti-commits.github.io/paradox/",
+      "type": "App"
+    },
+    {
+      "id": "statistica",
+      "title": "STAT!",
+      "section": "apps",
+      "description": "Esplora statistica e probabilità con esperimenti casuali, simulazioni e istogrammi.",
+      "url": "https://flavionaretti-commits.github.io/statistica/",
       "type": "App"
     }
   ]
