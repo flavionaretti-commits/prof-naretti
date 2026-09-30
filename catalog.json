@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-30.1",
+  "version": "2026-09-30.2",
   "resources": [
     {
       "id": "aritmetica",
@@ -164,7 +164,8 @@
         "math"
       ],
       "url": "https://flavionaretti-commits.github.io/matletica/",
-      "type": "App"
+      "type": "App",
+      "description": "Allena il calcolo mentale con sfide di precisione e velocità."
     },
     {
       "id": "aritmetica-app",
@@ -174,7 +175,8 @@
         "math"
       ],
       "url": "https://flavionaretti-commits.github.io/aritmetica-lab/",
-      "type": "App"
+      "type": "App",
+      "description": "Combina dadi, numeri, frazioni e simboli per creare attività di calcolo."
     },
     {
       "id": "relativi",
@@ -195,7 +197,8 @@
         "math"
       ],
       "url": "https://flavionaretti-commits.github.io/contatore-posizionale/",
-      "type": "App"
+      "type": "App",
+      "description": "Scopri il valore posizionale dei numeri confrontando la base 10 con altre basi."
     },
     {
       "id": "cubo-app",
@@ -205,7 +208,8 @@
         "games"
       ],
       "url": "https://flavionaretti-commits.github.io/cubo-3x3/",
-      "type": "App"
+      "type": "App",
+      "description": "Impara a conoscere e risolvere il cubo di Rubik 3×3 con percorsi guidati."
     },
     {
       "id": "clock",
@@ -215,21 +219,24 @@
         "games"
       ],
       "url": "https://flavionaretti-commits.github.io/chess-clock/",
-      "type": "App"
+      "type": "App",
+      "description": "Gestisci il tempo delle partite a scacchi con un orologio per due giocatori."
     },
     {
       "id": "hicsunt",
       "title": "HIC SUNT MAGISTRI!",
       "section": "apps",
       "url": "https://flavionaretti-commits.github.io/hic-sunt-magistri/",
-      "type": "App"
+      "type": "App",
+      "description": "Scopri i ruoli segreti in un gioco di deduzione e bluff ambientato a scuola."
     },
     {
       "id": "scarabocchio",
       "title": "SCARABOCCHIO!",
       "section": "apps",
       "url": "https://flavionaretti-commits.github.io/scarabocchio/",
-      "type": "App"
+      "type": "App",
+      "description": "Disegna e fai indovinare parole alla tua squadra prima che scada il tempo."
     },
     {
       "id": "ignorante",
@@ -239,7 +246,8 @@
         "games"
       ],
       "url": "https://flavionaretti-commits.github.io/ignorante/",
-      "type": "App"
+      "type": "App",
+      "description": "Ascolta gli indizi e scopri chi sta bluffando sulla parola segreta."
     },
     {
       "id": "attento",
@@ -249,7 +257,8 @@
         "games"
       ],
       "url": "https://flavionaretti-commits.github.io/attento-a-quello-che-dici/",
-      "type": "App"
+      "type": "App",
+      "description": "Fai indovinare una parola alla tua squadra evitando le cinque parole proibite."
     },
     {
       "id": "storydice",
@@ -259,7 +268,8 @@
         "games"
       ],
       "url": "https://flavionaretti-commits.github.io/storydice/",
-      "type": "App"
+      "type": "App",
+      "description": "Lancia i dadi illustrati e usa i simboli per inventare storie."
     },
     {
       "id": "blitz",
@@ -269,7 +279,8 @@
         "games"
       ],
       "url": "https://flavionaretti-commits.github.io/blitz-vic20/",
-      "type": "App"
+      "type": "App",
+      "description": "Rivivi un classico del Commodore VIC-20 ricreato in Scratch."
     },
     {
       "id": "scacchi",
