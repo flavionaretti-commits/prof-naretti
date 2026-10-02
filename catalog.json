@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-30.3",
+  "version": "2026-10-02.1",
   "resources": [
     {
       "id": "aritmetica",
@@ -228,7 +228,10 @@
       "section": "apps",
       "url": "https://flavionaretti-commits.github.io/hic-sunt-magistri/",
       "type": "App",
-      "description": "Scopri i ruoli segreti in un gioco di deduzione e bluff ambientato a scuola."
+      "description": "Scopri i ruoli segreti in un gioco di deduzione e bluff ambientato a scuola.",
+      "also": [
+        "games"
+      ]
     },
     {
       "id": "scarabocchio",
