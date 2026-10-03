@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-02.1",
+  "version": "2026-10-03.1",
   "resources": [
     {
       "id": "aritmetica",
@@ -362,6 +362,17 @@
       "section": "apps",
       "description": "Scopri i legami tra matematica, fisica e musica con un monocordo interattivo.",
       "url": "https://flavionaretti-commits.github.io/pitagora/",
+      "type": "App"
+    },
+    {
+      "id": "codex",
+      "title": "CODEX!",
+      "section": "apps",
+      "also": [
+        "tech"
+      ],
+      "description": "Esplora codici e cifrari, crea messaggi segreti e scopri come decifrarli.",
+      "url": "https://flavionaretti-commits.github.io/codex/",
       "type": "App"
     }
   ]
