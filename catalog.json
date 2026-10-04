@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-03.1",
+  "version": "2026-10-04.1",
   "resources": [
     {
       "id": "aritmetica",
@@ -373,6 +373,18 @@
       ],
       "description": "Esplora codici e cifrari, crea messaggi segreti e scopri come decifrarli.",
       "url": "https://flavionaretti-commits.github.io/codex/",
+      "type": "App"
+    },
+    {
+      "id": "ingrana",
+      "title": "INGRANA!",
+      "section": "apps",
+      "also": [
+        "math",
+        "tech"
+      ],
+      "description": "Esplora rapporti e minimo comune multiplo con ingranaggi interattivi e marce della bicicletta.",
+      "url": "https://flavionaretti-commits.github.io/ingrana/",
       "type": "App"
     }
   ]
