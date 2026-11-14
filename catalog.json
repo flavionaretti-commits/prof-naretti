@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-04.1",
+  "version": "2026-11-14.1",
   "resources": [
     {
       "id": "aritmetica",
@@ -385,6 +385,17 @@
       ],
       "description": "Esplora rapporti e minimo comune multiplo con ingranaggi interattivi e marce della bicicletta.",
       "url": "https://flavionaretti-commits.github.io/ingrana/",
+      "type": "App"
+    },
+    {
+      "id": "coding",
+      "title": "CODING!",
+      "section": "apps",
+      "also": [
+        "tech"
+      ],
+      "description": "Impara a programmare con 24 progetti Scratch guidati: animazioni, giochi e programmi da personalizzare.",
+      "url": "https://flavionaretti-commits.github.io/coding/",
       "type": "App"
     }
   ]
