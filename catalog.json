@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-14.1",
+  "version": "2026-11-15.1",
   "resources": [
     {
       "id": "aritmetica",
@@ -396,6 +396,17 @@
       ],
       "description": "Impara a programmare con 24 progetti Scratch guidati: animazioni, giochi e programmi da personalizzare.",
       "url": "https://flavionaretti-commits.github.io/coding/",
+      "type": "App"
+    },
+    {
+      "id": "scacchi-app",
+      "title": "SCACCHI!",
+      "section": "apps",
+      "also": [
+        "games"
+      ],
+      "description": "Impara gli scacchi con lezioni guidate, sfide di tattica e logica e partite a due sulla stessa scacchiera.",
+      "url": "https://flavionaretti-commits.github.io/scacchi/",
       "type": "App"
     }
   ]
